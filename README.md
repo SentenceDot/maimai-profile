@@ -12,4 +12,4 @@
 輸出檔名預設為 `example.png`，為 `png` 圖檔  
 
 # 輸出圖檔範例
-![image](https://github.com/SentenceDot/plurk-R18-mask/blob/master/example.png)
+![image](https://github.com/SentenceDot/maimai-profile/blob/master/example.png)
